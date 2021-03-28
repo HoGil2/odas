@@ -1,0 +1,16 @@
+/workspaces/odas/odas/build/CMakeFiles/install/strip.dir
+/workspaces/odas/odas/build/CMakeFiles/install/local.dir
+/workspaces/odas/odas/build/CMakeFiles/edit_cache.dir
+/workspaces/odas/odas/build/CMakeFiles/odaslive.dir
+/workspaces/odas/odas/build/CMakeFiles/install.dir
+/workspaces/odas/odas/build/CMakeFiles/list_install_components.dir
+/workspaces/odas/odas/build/CMakeFiles/rebuild_cache.dir
+/workspaces/odas/odas/build/CMakeFiles/odasserver.dir
+/workspaces/odas/odas/build/CMakeFiles/odas.dir
+/workspaces/odas/odas/build/include/CMakeFiles/install/strip.dir
+/workspaces/odas/odas/build/include/CMakeFiles/install/local.dir
+/workspaces/odas/odas/build/include/CMakeFiles/install.dir
+/workspaces/odas/odas/build/include/CMakeFiles/list_install_components.dir
+/workspaces/odas/odas/build/include/CMakeFiles/rebuild_cache.dir
+/workspaces/odas/odas/build/include/CMakeFiles/edit_cache.dir
+/workspaces/odas/odas/build/include/CMakeFiles/odas_headers.dir

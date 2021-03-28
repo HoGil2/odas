@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/odasserver.dir/demo/odasserver/main.o  -o ../bin/odasserver  -Wl,-rpath,/workspaces/odas/odas/lib ../lib/libodas.so -lfftw3f -lasound -lconfig -lm -lpthread 
